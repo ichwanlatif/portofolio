@@ -1,0 +1,31 @@
+.navbar-bg {
+  background-image: url(../background/navbar-bg.jpg);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+}
+
+body {
+  min-height: 3000px;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.bg-grey {
+  background-color: #efefef;
+}
+
+.bg-green {
+  background-color: #329290;
+}
+
+.card {
+  object-fit: cover;
+}
+
+.a-white {
+  color: #efefef;
+}
